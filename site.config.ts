@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: '你好好好好',
   author: {
     name: '单向地铁',
-    avatar: 'https://www.yunyoujun.cn/images/avatar.jpg',
+    avatar: 'https://pika-imagehost.oss-cn-hangzhou.aliyuncs.com/img/202406192008238.jpg',
 
   },
   description: '单向地铁的个人博客',
