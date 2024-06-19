@@ -3,13 +3,14 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: '你好好好好',
+  title: '单向地铁的个人博客',
+  subtitle: '',
   author: {
     name: '单向地铁',
     avatar: 'https://pika-imagehost.oss-cn-hangzhou.aliyuncs.com/img/202406192008238.jpg',
 
   },
-  description: '单向地铁的个人博客',
+  description: '',
   lastUpdated: true,
   social: [
     {
